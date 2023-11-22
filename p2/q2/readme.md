@@ -1,0 +1,1 @@
+<img src="/img/p2-q2.png">
