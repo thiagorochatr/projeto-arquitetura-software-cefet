@@ -1,0 +1,1 @@
+Repository for the Software Design and Architecture discipline (Projeto e Arquitetura de Software), from the Undergraduate Course in Information Systems, at the Federal Center of Technological Education/Rio de Janeiro (Cefet/RJ).
